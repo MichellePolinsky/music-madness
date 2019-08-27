@@ -6,7 +6,7 @@ export class Fleet extends Component {
   render() {
     return (
       <>
-        <main>
+        <main className="fleet-main">
           <h1 className="band-name">Fleet Foxes</h1>
 
           <div className="band-img">

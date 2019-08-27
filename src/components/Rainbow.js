@@ -1,12 +1,12 @@
 import React, { Component } from 'react'
-import RKS from '../Images/kitty.jpg'
+import RKS from '../Images/rain.jpg'
 import How from '../Images/how.jpeg'
 
 export class Rainbow extends Component {
   render() {
     return (
       <>
-        <main>
+        <main className="rks-main">
           <h1 className="band-name">Rainbow Kitten Surprise</h1>
 
           <div className="band-img">

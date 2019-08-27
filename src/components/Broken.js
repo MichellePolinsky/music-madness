@@ -6,7 +6,7 @@ export class Broken extends Component {
   render() {
     return (
       <>
-        <main>
+        <main className="bss-main">
           <h1 className="band-name">Broken Social Scene</h1>
 
           <div className="band-img">
